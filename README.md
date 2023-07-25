@@ -17,4 +17,8 @@ Here are some ideas to get you started:
 
 Update Readme
 
+<<<<<<< Updated upstream
 Azure Stuff
+=======
+## GitHub Stuff
+>>>>>>> Stashed changes
